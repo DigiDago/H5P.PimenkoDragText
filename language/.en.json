@@ -54,6 +54,9 @@
       "default": "Show solution"
     },
     {
+      "label": "Text for add a solution custom"
+    },
+    {
       "label": "Numbered Drop zone label",
       "default": "Drop Zone @index.",
       "description": "Label used for accessibility, where the Read speaker will read the index of a drop zone. Variable available: @index"

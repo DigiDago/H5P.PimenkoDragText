@@ -54,6 +54,9 @@
       "default": "Voir la correction"
     },
     {
+      "label": "Texte pour afficher une « solution personnalisée »"
+    },
+    {
       "label": "Etiquette de la zone de dépôt numérotée",
       "default": "Zone de dépôt @index.",
       "description": "Etiquette utilisée pour l'accessibilité quand la synthèse vocale annonce le numéro de la zone de dépôt. Variable disponible : @index"

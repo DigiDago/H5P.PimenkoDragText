@@ -1,9 +1,9 @@
 var H5P = H5P || {};
-H5P.DragText = H5P.DragText || {};
+H5P.PimenkoDragText = H5P.PimenkoDragText || {};
 
-H5P.DragText.StopWatch = (function () {
+H5P.PimenkoDragText.StopWatch = (function () {
   /**
-   * @class {H5P.DragText.StopWatch}
+   * @class {H5P.PimenkoDragText.StopWatch}
    * @constructor
    */
   function StopWatch() {
@@ -16,7 +16,7 @@ H5P.DragText.StopWatch = (function () {
   /**
    * Starts the stop watch
    *
-   * @return {H5P.DragText.StopWatch}
+   * @return {H5P.PimenkoDragText.StopWatch}
    */
   StopWatch.prototype.start = function(){
     /**
@@ -56,4 +56,4 @@ H5P.DragText.StopWatch = (function () {
   return StopWatch;
 })();
 
-export default H5P.DragText.StopWatch;
+export default H5P.PimenkoDragText.StopWatch;
