@@ -22,3 +22,7 @@ Run tests:
 ```bash
 npm test
 ```
+
+# Information about changment 
+** **
+Adding custom feedback option thanks to "solutionCustomTexts modification
